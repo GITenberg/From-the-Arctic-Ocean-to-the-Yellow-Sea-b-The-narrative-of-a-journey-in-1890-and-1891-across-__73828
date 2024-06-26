@@ -1,0 +1,32 @@
+_repo: From-the-Arctic-Ocean-to-the-Yellow-Sea-b-The-narrative-of-a-journey-in-1890-and-1891-across-__73828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Price, Julius M. (Julius Mendes)
+    alias: Price, Julius Mendes
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '56425'
+    url: http://www.gutenberg.org/2009/agents/56425
+    wikipedia: https://en.wikipedia.org/wiki/Julius_Mendes_Price
+description: ''
+gutenberg_issued: '2024-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73828'
+language: en
+pgterms:marc904: https://archive.org/details/fromarcticocean00pric
+pgterms:marc905: 20210824121326price
+pgterms:marc906: '1892'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'From the Arctic Ocean to the Yellow Sea : $b The narrative of a journey, in
+  1890 and 1891, across Siberia, Mongolia, the Gobi desert, and north China'
+url: http://www.gutenberg.org/ebooks/73828
