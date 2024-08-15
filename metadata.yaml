@@ -1,5 +1,8 @@
 _repo: From-the-Arctic-Ocean-to-the-Yellow-Sea-b-The-narrative-of-a-journey-in-1890-and-1891-across-__73828
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73828-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Price, Julius M. (Julius Mendes)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56425
     wikipedia: https://en.wikipedia.org/wiki/Julius_Mendes_Price
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73828#From-the-Arctic-Ocean-to-the-Yellow-Sea-b-The-narrative-of-a-journey-in-1890-and-1891-across-_
 gutenberg_issued: '2024-06-14'
 gutenberg_type: Text
 identifiers:
